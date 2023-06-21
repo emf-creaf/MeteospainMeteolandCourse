@@ -1,0 +1,29 @@
+---
+title: "Course information"
+author: "Miquel De Cáceres/Victor Granda"
+date: "30/3/2023"
+output:
+  pdf_document: default
+---
+
+
+## Presentation
+
++ **Title** - Accessing and processing climate data with meteospain and meteoland R packages
++ **Who** - Victor Granda (EMF-CREAF), Miquel De Cáceres (EMF-CREAF) 
++ **When** - 12-14 June 2023 (10-14h)
++ **Recommended for** - All staff dealing with climate data, specially at daily resolution
++ **Where** -  UAB room C5B/007
++ **Description** - The main aims of the course are to provide participants with: (a) the ability to access and download daily/monthly climate data from different weather station networks around Spain, using the R package *meteospain*; (b) the basis to understand and correctly apply the weather interpolation and radiation estimation procedures available in the R package *meteoland*.
++ **More info** - Miquel De Cáceres (m.caceres@creaf.uab.cat)
+
+## Requirements
+
+ + Students should be able to program scripts in R (including loops and conditionals) and should understand common R data structures (data frames, lists, vectors, etc.). Experience with tidyverse packages is advised.
+
+
+## Content
+
+ + **June 12th**: Introduction to climate data sources. Practice - Using R package *meteospain* to access and download climate data in Spain. 
+ + **June 13th**: Theory - Interpolation and radiation estimation procedures implemented in the R package *meteoland*. Practice - Performing daily weather interpolation and summarizing the resulting data.
+ + **June 14th**: Practice - Building, calibrating and evaluating interpolator objects. 
